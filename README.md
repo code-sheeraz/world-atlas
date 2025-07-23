@@ -2,7 +2,7 @@
 
 Explore the World. Instantly and Seamlessly  
 
-> Just commit today &nbsp;&nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/code-sheeraz/world-atlas?style=social) &nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/code-sheeraz/world-atlas?style=social) &nbsp;&nbsp; ![Languages](https://img.shields.io/github/languages/count/code-sheeraz/world-atlas)
+> &nbsp;&nbsp; ![GitHub Repo stars](https://img.shields.io/github/stars/code-sheeraz/world-atlas?style=social) &nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/code-sheeraz/world-atlas?style=social) &nbsp;&nbsp; ![Languages](https://img.shields.io/github/languages/count/code-sheeraz/world-atlas)
 
 ---
 
