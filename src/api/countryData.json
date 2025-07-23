@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Japan",
+    "population": 125800000,
+    "interesting_fact": "Has many vending machines.",
+    "capital": "Tokyo"
+  },
+  {
+    "id": 2,
+    "name": "Brazil",
+    "population": 203000000,
+    "interesting_fact": "Home to the Amazon forest.",
+    "capital": "Brasília"
+  },
+  {
+    "id": 3,
+    "name": "Canada",
+    "population": 39000000,
+    "interesting_fact": "Has the most lakes globally.",
+    "capital": "Ottawa"
+  },
+  {
+    "id": 4,
+    "name": "Egypt",
+    "population": 112000000,
+    "interesting_fact": "Built the Great Pyramids.",
+    "capital": "Cairo"
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "population": 26800000,
+    "interesting_fact": "Is also a whole continent.",
+    "capital": "Canberra"
+  },
+  {
+    "id": 6,
+    "name": "Norway",
+    "population": 5500000,
+    "interesting_fact": "Introduced salmon sushi.",
+    "capital": "Oslo"
+  },
+  {
+    "id": 7,
+    "name": "India",
+    "population": 1420000000,
+    "interesting_fact": "Largest postal network.",
+    "capital": "New Delhi"
+  },
+  {
+    "id": 8,
+    "name": "South Korea",
+    "population": 51700000,
+    "interesting_fact": "Fastest internet speeds.",
+    "capital": "Seoul"
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "population": 129000000,
+    "interesting_fact": "Invented chocolate drink.",
+    "capital": "Mexico City"
+  }
+]

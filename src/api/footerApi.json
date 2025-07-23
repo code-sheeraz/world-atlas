@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find Us",
+        "details":"Houstan, Texas"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call Us",
+        "details":"+1 (123) 456-7890"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail Us",
+        "details":"hello@worldatlas.org"
+    }
+]
